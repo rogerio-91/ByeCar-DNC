@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,700&family=Raleway:wght@100;200;300;400;700&display=swap');
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 0;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+header{
+    width: 1525px;
+    height: 140px;
+    background: #303030;
+    padding: 0px 20px ;
+}
+
+#logoDNC{
+    width: 157px;
+    height: 115px;
+}
+
+h1{
+    margin-left: 160px;
+    margin-top: -80px;
+    width: 163px;
+    height: 56px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;   
+}
+
+#card-1{
+    width: 1512px;
+    height: 982px;
+    background: #FFFFFF;
+}
+
+
+#card-1 h2 {
+    width: 614px;
+    height: 88px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    white-space: nowrap;
+    padding: 40px;
+
+    color: #265E70;
+}
+
+b {
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+#heartMoto{
+    width: 30%;
+    padding: 20px 40px;
+    margin-top: -45px;
+}
+
+h3{;
+    margin-left: 850px;
+    margin-top:-938px;
+
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 44px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #265E70;
+}
+
+#blueMotor{
+    color: #4DBCE9;;
+}
+
+#carousel{
+    width: 400px;
+    height: 400px;
+
+    background: rgba(77, 188, 233, 0.75);
+    border-radius: 15px;
+
+    margin-left: 800px;
+    margin-top:-15px; 
+}
+
+ul{
+    list-style-type: none;
+}
+
+li #title-1{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;stroke: ;
+    color: #FFFFFF;
+
+    padding-left: 35px;
+    
+
+    }
+
+#motoEletric{
+    width: 60%;
+    padding-left: 65px;
+    }
+
+    li #legend-1{
+        font-family: 'Verdana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 38px;
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #FFFFFF;
+
+        padding-left: 125px;
+        padding-top: -50px;
+    }
+li label #price-1{
+    width: 211px;
+    height: 46px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
